@@ -48,7 +48,7 @@ If there are any questions about this project please reach out at bbec0689@gmail
 
 ## License 
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-License-red.svg)](https://shields.io/)
+[![GitHub license](https://img.shields.io/badge/license-MITLicense-red.svg)](https://shields.io/)
 
 ## Video
 
